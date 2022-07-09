@@ -1,5 +1,5 @@
 import java.util.*;
-public class binaryTree {
+public class Binary_Tree {
     static class Node {
         int data;
         Node left;
